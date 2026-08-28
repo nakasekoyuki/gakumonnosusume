@@ -91,6 +91,7 @@
 ---
 
 **付録へ**
+
 - [付録A　主要作品・出来事年表](appendix_a_chronology.md)
 - [付録B　WEB小説用語辞典](appendix_b_glossary.md)
 - [付録C　テンプレ構造カタログ](appendix_c_templates.md)
